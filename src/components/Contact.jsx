@@ -27,9 +27,9 @@ function Contact() {
 				"template_xxa6gzr",
 				{
 					from_name: form.name,
-					to_name: "Sahil",
+					to_name: "Sanga, devkota",
 					from_email: form.email,
-					to_email: "sahilkhadka767@gmail.com",
+					to_email: "sangamdevkota02@gmail.com",
 					message: form.message,
 				},
 				"Zcc829UhiguVzPsA9"
